@@ -5,10 +5,10 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "TEAM ATG",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/api/oauth2/authorize?client_id=1060891844852072458&permissions=8&scope=bot",
   //BotInvite Link
   Features: [
     {
@@ -54,12 +54,12 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
-  twitterLink: "https://twitter.com",
-  mediumLink: "https://medium.com/",
-  facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  githubLink: "",
+  twitterLink: "https://twitter.com/ATG_ESPORTS_",
+  mediumLink: "/",
+  facebookLink: "https://www.facebook.com/profile.php?id=100057549296205",
+  discordLink: "https://discord.gg/Zy4UGpvZQX",
+  youtubeLink: "https://www.youtube.com/channel/UCrCpoaop1tzJKtYHVeV79dg",
 };
 
 export default config;
